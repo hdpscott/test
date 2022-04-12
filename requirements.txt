@@ -1,2 +1,1 @@
 pip freeze > requirements.txt
-gunicorn #(若不寫行嗎？)
